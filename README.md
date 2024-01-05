@@ -3,7 +3,7 @@ The developed HMI is a multi-track based project but is majorly focused in Behav
 The main functionality of this interface is that it is strongly interfaced with the security aspects (like the Firewall developed) with its features like customer churn, finance and loan approval prediction and analysis, Machine Learning in Green Finance, market prediction, transaction fraud detection(including UPI, credit, debit, etc), loan approval prediction, risk analysis model like asset management, etc., by which solutions are tailored to the unique needs while ensuring data privacy and integrity while providing enhanced security against fraudulent activities, also helping financial institutions make informed and better sustainable investment decisions.
 
 PRoTon AI for Customer Responce, Services, analysis, helpdesk, Green Finance, predictive analysis, etc.
-# Network-Intrusion-Detection
+
 **#FRAUD transation Analysis
 #FRAUD transation Detection
 #Firewall 
