@@ -1,0 +1,97 @@
+add 1
+registeration block unblock delete
+manage (complete profile)
+add 2,3,4 (complete profile)
+view
+update
+statusupdate 2,3,4
+
+verifyprofiles view
+
+list active,block level1,2,3
+analysis
+
+14+1
+
+
+agent - add,registration,manage,verifyprofile,list
+company - 
+jobseeker - 
+expert - 
+employee - 
+institute - 
+intern - 
+mera partner - 
+student - 
+recruiter - 
+
+promoter - 3
+superadmin
+sub - mera partner
+sub-institute
+sub-recruiter
+sub-company
+
+
+
+add,update,signup add
+change all sql's into $harsha
+
+
+
+if we click 2 in bottom with filters its error
+
+
+sheet lo 18 files add credentials
+verify 18 files
+sql files create - 18
+student frontend superadmin lo and website
+check points - 22
+verify 
+repeat all for 18
+
+
+
+
+
+1 - 22 - 17
+2 -10 -  8
+3 - 28 - 22
+5 - 39 - 28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IIT
+intiki travelling
+vijayawada
+hyderabad
+clg traveling
+birthday-siva
+birthday-hari
+feb traveling
+nptel
